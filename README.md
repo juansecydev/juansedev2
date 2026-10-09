@@ -1,52 +1,73 @@
+# 👋 Hi, I'm a Full Stack Developer and AI Engineer!
 
-Hola, soy Juan Sebastian Arias 👋, desarollador web 👨‍💻 🌐
+### `// Building reliable web applications, one line at a time.`
 
-Te doy la bienvenida a mi perfil de GitHub
-
-Soy un desarrollador web backend con aspiración a ser full stack, ya que dispongo de conocimientos tanto en el FrontEnd como el BackEnd, lo que me ha permitido conocer ambas fronteras del desarrollo web. Revisando mis repositorios,   verás algunos de mis proyectos realizados que he logrado desarrollar en base al proceso de mi formación autodidacta, puesto que ha sido mi principal base de aprendizaje. Espero te puedan gustar y estoy abierto ante cualquier retroalimentaciñon
-
-**Tecnologías FrontEnd**
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)" alt="CSS badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="Bootstrap Badge"></a>
+<p align="left">
+  <img src="https://img.shields.io/badge/BACKEND-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117" alt="Backend PHP" />
+  <img src="https://img.shields.io/badge/FRAMEWORK-SLIM-6C9?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117" alt="Slim Framework" />
+  <img src="https://img.shields.io/badge/DATABASES-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" alt="SQL Databases" />
 </p>
 
-**Tecnologías BackEnd**
+---
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laracvel badge"></a>
+### `> 01. ABOUT ME`
+
+Hello! I'm a developer interested in building **reliable, secure, and maintainable web applications**.
+
+My main focus is **PHP backend development**, working with Slim Framework, REST APIs, relational databases, and web security. I also enjoy working on frontend technologies to build complete web experiences.
+
+I'm continuously learning, improving my engineering skills, and exploring better ways to design and develop software.
+
+* 💻 **Backend:** PHP, Slim Framework, REST APIs
+* 🎨 **Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery
+* 🗄️ **Databases:** MySQL, PostgreSQL, SQLite
+* 🔐 **Interests:** Web security, clean code, and backend architecture
+* 🚀 **Goal:** Keep growing as a backend engineer and build impactful software
+
+---
+
+### `// 02. TECHNOLOGY STACK`
+
+#### 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
 </p>
 
-**Tecnologías/herramientas adicionales**
+#### ⚙️ Backend Development
 
-+ Git
-+ Draw.io
-+ Visual Studio Code
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Slim_Framework-6C9?style=for-the-badge&logo=php&logoColor=white" alt="Slim Framework" />
+</p>
 
-__Te invito a visulizar mis proyectos marcados con estrella, algunos de ellos también están en producción.__
+#### 🗄️ Databases
 
-**En cuanto a habilidades blandas, el trabajo en equipo es uno de los más destacables que tengo, además de estar orientado al servicio y atención al detalle, porque comprendo que hoy en día son fundamentales tenerlas para desarrollar grandes proyectos en equipo**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
 
-Fin de la introducción a mi perfil
+---
 
-Gracias por leer esta descripción
+### `// 03. WHAT I FOCUS ON`
 
-<!--
-**juansedev2/juansedev2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+> Backend Development
+> RESTful API Design
+> Relational Database Design
+> Web Application Security
+> Clean, Maintainable Code
+> Continuous Learning
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>"Great software is built through continuous learning, thoughtful design, and attention to detail."</i>
+</p>
