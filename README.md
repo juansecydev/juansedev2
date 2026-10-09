@@ -83,11 +83,8 @@ The systems engineering has many branches, so i've decided take the software dev
   </tr>
 </table>
 
-<br/>
-
 ---
 
-<!-- Tarjeta Cyberpunk de Contacto -->
 <table align="center" style="border: border-radius: 16px;">
   <tr>
     <br/>
@@ -97,19 +94,17 @@ The systems engineering has many branches, so i've decided take the software dev
     <center>
       <td align="center">
         <a href="mailto:infojuansedev2a@gmail.com">
-          <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+          <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
         </a>
         &nbsp;
         <a href="https://juansecydev.github.io/Portolio/">
-          <img src="https://img.shields.io/badge/PORTFOLIO_WEB-00FF66?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+          <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="Portfolio" />
         </a>
         <br><br>
       </td>
     </center>
   </tr>
 </table>
-
-<br>
 
 <p align="center" style="font-family: monospace; font-size: 12px; color: #555;">
   Inspired for Patri Aparicio © 2026 •
