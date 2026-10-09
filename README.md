@@ -67,7 +67,7 @@ The systems engineering has many branches, so i've decided take the software dev
     <td width="50%" valign="top">
       <h4 align="center">💻 DevOps and other</h4>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=linux,docker,grafana,prometheus,git,github,gitlab,vscode&theme=dark" alt="Backend Stack" />
+        <img src="https://skillicons.dev/icons?i=linux,docker,grafana,prometheus,git,github,gitlab,vscode&theme=dark" alt="DevOps Stack" />
       </p>
       <ul>
         <li><b>Linux:</b> I have basic knowledges with Linux to work</li>
