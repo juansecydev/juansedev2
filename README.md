@@ -93,7 +93,7 @@ The systems engineering has many branches, so i've decided take the software dev
     <br/>
     <center>
       <td align="center">
-        <a href="mailto:infojuansedev2a@gmail.com">
+        <a href="mailto:infojuansedev2@gmail.com">
           <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
         </a>
         &nbsp;
