@@ -15,7 +15,7 @@
 > DISPONIBILIDAD     : You can contact me if you want to work with me
 ```
 
-Hello! I'm **Juan Sebastian**, alias juansecydev.
+Hello! I'm **Juan Sebastian**, alias <b>juansecydev</b>.
 
 The systems engineering has many branches, so i've decided take the software development path because write code always has been my main skill during my formation, but now, i need to recognize that code is not the end of the projects, is the medium and now with the arrival of AI, well, i'm studying more things about the software development and AI implementation with a secure focus, so with the time, i hope to fill this GitHub profile with more and big projects.
 
