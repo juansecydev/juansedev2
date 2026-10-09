@@ -85,11 +85,12 @@ The systems engineering has many branches, so i've decided take the software dev
 
 ---
 
-<table align="center" style="border: border-radius: 16px;">
+<table align="center">
   <tr>
-    <br/>
-    <center><h3 style="color: #ffffff; margin: 0;"><b>Contact me or check my portofolio</b></h3></center>
-    <br/>
+  <br/>
+    <center>
+      <h3 style="color: #ffffff; margin: 0;"><b>Contact me or check my portfolio</b></h3>
+    </center>
     <br/>
     <center>
       <td align="center">
@@ -100,7 +101,6 @@ The systems engineering has many branches, so i've decided take the software dev
         <a href="https://juansecydev.github.io/Portolio/">
           <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="Portfolio" />
         </a>
-        <br><br>
       </td>
     </center>
   </tr>
