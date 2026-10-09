@@ -85,12 +85,11 @@ The systems engineering has many branches, so i've decided take the software dev
 
 ---
 
+### `// 03. Contact me or check my portofolio`
+
+
 <table align="center">
   <tr>
-  <br/>
-    <center>
-      <h3 style="color: #ffffff; margin: 0;"><b>Contact me or check my portfolio</b></h3>
-    </center>
     <br/>
     <center>
       <td align="center">
