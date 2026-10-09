@@ -1,73 +1,118 @@
-# 👋 Hi, I'm a Full Stack Developer and AI Engineer!
 
-### `// Building reliable web applications, one line at a time.`
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/BACKEND-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117" alt="Backend PHP" />
-  <img src="https://img.shields.io/badge/FRAMEWORK-SLIM-6C9?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117" alt="Slim Framework" />
-  <img src="https://img.shields.io/badge/DATABASES-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" alt="SQL Databases" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C051&width=435&lines=%F0%9F%92%BB+Full+Stack+Developer+%F0%9F%92%BB;%F0%9F%A4%96AI+Engineer+in+progress+%F0%9F%A4%96;%F0%9F%95%B5%EF%B8%8F+Interested+in+security+%F0%9F%95%B5%EF%B8%8F)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### `> 01. ABOUT ME`
+### `// 01. About me`
 
-Hello! I'm a developer interested in building **reliable, secure, and maintainable web applications**.
-
-My main focus is **PHP backend development**, working with Slim Framework, REST APIs, relational databases, and web security. I also enjoy working on frontend technologies to build complete web experiences.
-
-I'm continuously learning, improving my engineering skills, and exploring better ways to design and develop software.
-
-* 💻 **Backend:** PHP, Slim Framework, REST APIs
-* 🎨 **Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery
-* 🗄️ **Databases:** MySQL, PostgreSQL, SQLite
-* 🔐 **Interests:** Web security, clean code, and backend architecture
-* 🚀 **Goal:** Keep growing as a backend engineer and build impactful software
-
----
-
-### `// 02. TECHNOLOGY STACK`
-
-#### 🎨 Frontend Development
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-</p>
-
-#### ⚙️ Backend Development
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Slim_Framework-6C9?style=for-the-badge&logo=php&logoColor=white" alt="Slim Framework" />
-</p>
-
-#### 🗄️ Databases
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
----
-
-### `// 03. WHAT I FOCUS ON`
-
-```text
-> Backend Development
-> RESTful API Design
-> Relational Database Design
-> Web Application Security
-> Clean, Maintainable Code
-> Continuous Learning
+```yaml
+> ROL                : Full Stack deveeloper in the web world
+> PROFESSIONAL TITLE : I'm a systems engineering
+> DISPONIBILIDAD     : You can contact me if you want to work with me
 ```
 
+Hello! I'm **Juan Sebastian**, alias juansecydev.
+
+The systems engineering has many branches, so i've decided take the software development path because write code always has been my main skill during my formation, but now, i need to recognize that code is not the end of the projects, is the medium and now with the arrival of AI, well, i'm studying more things about the software development and AI implementation with a secure focus, so with the time, i hope to fill this GitHub profile with more and big projects.
+
 ---
 
-<p align="center">
-  <i>"Great software is built through continuous learning, thoughtful design, and attention to detail."</i>
+### `// 02. STACK of technologies`
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🎨 FRONTEND</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap&theme=dark" alt="Frontend Stack" />
+      </p>
+      <ul>
+        <li><b>HTML:</b> Ok</li>
+        <li><b>CSS:</b> Ok</li>
+        <li><b>JavaScript:</b> With DOM manipulation and OOP knowledges</li>
+        <li><b>jQuery:</b> Classical library and powerful</li>
+        <li><b>Bootstrap:</b> Classical framework to faster GUI</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">>⚙️ BACKEND & AI</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=php,laravel,py&theme=dark" alt="Backend Stack" />
+      </p>
+      <ul>
+        <li><b>PHP:</b> With OOP, PSR as my guide style coding, functional programming and more...</li>
+        <li><b>Slim Framework:</b> An small but great framework to make faster small apps with PHP</li>
+        <li><b>Laravel:</b> I'm learning laravel...</li>
+        <li><b>Python:</b> For now, i have only basics knowledges</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">📋 Databases</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" alt="Database Stack" />
+      </p>
+      <ul>
+        <li><b>MySQL:</b> Faster and reliable DBMS to a faster start</li>
+        <li><b>PostgreSQL:</b> Currently working with Postgres, is powerful</li>
+        <li><b>SQLite:</b> For small apps, testing, etc.</li>
+        <li><b>Liquibase:</b> Great database migration tool and i use it when it's necessary</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">💻 DevOps and other</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=linux,docker,grafana,prometheus,git,github,gitlab,vscode&theme=dark" alt="Backend Stack" />
+      </p>
+      <ul>
+        <li><b>Linux:</b> I have basic knowledges with Linux to work</li>
+        <li><b>Docker:</b> Learning Docker</li>
+        <li><b>Grafana:</b> I have basic knowledges about Grafana, create dashboards, graphs and more</li>
+        <li><b>Prometheus:</b> I have basic knowledges about Prometheus to use ans send metrics</li>
+        <li><b>Git:</b> I can work good with git with nice knowledges</li>
+        <li><b>GitHub:</b> For example i'm using GitHub now :D</li>
+        <li><b>GitLab:</b> I have experience using GitLab also</li>
+        <li><b>VS Code:</b> My main tool for development</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<!-- Tarjeta Cyberpunk de Contacto -->
+<table align="center" style="border: border-radius: 16px;">
+  <tr>
+    <br/>
+    <center><h3 style="color: #ffffff; margin: 0;"><b>Contact me or check my portofolio</b></h3></center>
+    <br/>
+    <br/>
+    <center>
+      <td align="center">
+        <a href="mailto:infojuansedev2a@gmail.com">
+          <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+        &nbsp;
+        <a href="https://juansecydev.github.io/Portolio/">
+          <img src="https://img.shields.io/badge/PORTFOLIO_WEB-00FF66?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+        </a>
+        <br><br>
+      </td>
+    </center>
+  </tr>
+</table>
+
+<br>
+
+<p align="center" style="font-family: monospace; font-size: 12px; color: #555;">
+  Inspired for Patri Aparicio © 2026 •
 </p>
+
+</div>
